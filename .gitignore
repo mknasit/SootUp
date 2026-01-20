@@ -168,3 +168,4 @@ fabric.properties
 =======
 .vscode/
 .DS_Store
+/sootup.jess.integration/src/test/resources/

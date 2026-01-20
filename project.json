@@ -1,0 +1,197 @@
+[
+  {
+    "name": "commons-collections",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/commons-collections",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/commons-collections4-4.6.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.commons.collections4",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/commons-collections"
+  },
+  {
+    "name": "commons-io",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/commons-io",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/commons-io-2.20.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.commons.io",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/commons-io"
+  },
+  {
+    "name": "commons-lang",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/commons-lang",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/commons-lang3-3.20.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.commons.lang3",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/commons-lang"
+  },
+  {
+    "name": "gson",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/gson/gson",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/gson-2.13.3-SNAPSHOT.jar"
+    ],
+    "pkg": "com.google.gson",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/gson"
+  },
+  {
+    "name": "httpcomponents-core",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/httpcomponents-core/httpcore5",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/httpcore5-5.4-alpha1-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.hc.core5",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/httpcomponents-core"
+  },
+  {
+    "name": "jackson-core",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/jackson-core",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/jackson-core-2.21.0-SNAPSHOT.jar"
+    ],
+    "pkg": "com.fasterxml.jackson.core",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/jackson-core"
+  },
+  {
+    "name": "jsoup",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/jsoup",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/jsoup-1.22.1-SNAPSHOT.jar"
+    ],
+    "pkg": "org.jsoup",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/jsoup"
+  },
+  {
+    "name": "logging-log4j2",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/logging-log4j2/log4j-api",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/log4j-api-2.26.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.logging.log4j",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/logging-log4j2"
+  },
+  {
+    "name": "pdfbox",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/pdfbox/pdfbox",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/pdfbox-4.0.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.apache.pdfbox",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/pdfbox"
+  },
+  {
+    "name": "slf4j",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/partial compilation/JessTesting/src/test/resources/projects/slf4j/slf4j-api",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/slf4j-api-2.0.18-SNAPSHOT.jar"
+    ],
+    "pkg": "org.slf4j",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/slf4j"
+  },
+  {
+    "name": "assetj-core",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/SootUp/sootup.jess.integration/src/test/resources/Projects/assertj/assertj-core",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/assertj-core-4.0.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.assertj.core",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/assertj-core"
+  },
+  {
+    "name": "assetj-guava",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/SootUp/sootup.jess.integration/src/test/resources/Projects/assertj/assertj-guava",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/assertj-guava-4.0.0-SNAPSHOT.jar"
+    ],
+    "pkg": "org.assertj.guava",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/assertj-core"
+  },
+  {
+    "name": "netty-codec-base",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/SootUp/sootup.jess.integration/src/test/resources/Projects/netty/codec-base",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/netty-codec-base-4.2.8.Final-SNAPSHOT.jar"
+    ],
+    "pkg": "io.netty.handler.codec",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/netty-codec-base"
+  },
+  {
+    "name": "netty-codec-classes-quic",
+    "projectDir": "/Users/mitul/Documents/study/Thesis/SootUp/sootup.jess.integration/src/test/resources/Projects/netty/codec-classes-quic",
+    "sourceRoots": [
+      "src/main/java"
+    ],
+    "classpathJars": [
+      "target/netty-codec-classes-quic-4.2.8.Final-SNAPSHOT.jar"
+    ],
+    "pkg": "io.netty.handler.codec.quic",
+    "limit": -1,
+    "workDir": "/Users/mitul/Documents/study/Thesis/results/netty-codec-classes-quic"
+  },
+  {
+  "name": "netty-codec-compression",
+  "projectDir": "/Users/mitul/Documents/study/Thesis/SootUp/sootup.jess.integration/src/test/resources/Projects/netty/codec-compression",
+  "sourceRoots": [
+    "src/main/java"
+  ],
+  "classpathJars": [
+    "target/netty-codec-compression-4.2.8.Final-SNAPSHOT.jar"
+  ],
+  "pkg": "io.netty.handler.codec.compression",
+  "limit": -1,
+  "workDir": "/Users/mitul/Documents/study/Thesis/results/netty-codec-compression"
+}
+]

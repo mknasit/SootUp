@@ -72,6 +72,7 @@
         <module>sootup.analysis.intraprocedural</module>
         <module>sootup.apk.frontend</module>
         <module>sootup.codepropertygraph</module>
+        <module>sootup.jess.integration</module>
     </modules>
 
     <!-- Shared Configuration -->
