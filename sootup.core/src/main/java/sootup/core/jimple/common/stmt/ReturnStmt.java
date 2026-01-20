@@ -1,10 +1,10 @@
-package sootup.core.graph;
+package sootup.core.jimple.common.stmt;
 
 /*-
  * #%L
  * Soot - a J*va Optimization Framework
  * %%
- * Copyright (C) 2024 Junjie Shen
+ * Copyright (C) 2025 Ashik Mogasavara Ravikumar
  * %%
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as
@@ -21,7 +21,10 @@ package sootup.core.graph;
  * <http://www.gnu.org/licenses/lgpl-2.1.html>.
  * #L%
  */
-import java.util.Iterator;
 
-/** Interface of Block Iterator used to iterate each Block in a ControlFlowGraph. */
-public interface BlockIterator extends Iterator<BasicBlock<?>> {}
+/**
+ * An interface representing a return statement. Implementations of this interface represent
+ * statements that cause a method to return. This may be a void return or a return with a value
+ * depending on the implementation.
+ */
+public interface ReturnStmt extends Stmt {}
